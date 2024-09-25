@@ -629,6 +629,7 @@ https://thisismagma.com/assets/home/lore/seq/136.webp?2
 canvas2();
 
 gsap.to("#loading-circle ", {
+  opacity: 1,
   scale: 1.4,
   duration: 8,
   delay: 10,
